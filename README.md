@@ -1,2 +1,3 @@
 # hello-world
-欧阳别卷了
+hi ouyang！
+hubot here，I like Note。
